@@ -1,6 +1,6 @@
 ---
 acl:
-  definitions: []
+  definitions: {}
   interfaces:
     PLACE_HOLDER:
       acl: BLOCK_TRANSIT_LINKS
